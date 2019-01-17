@@ -1,0 +1,21 @@
+{
+  "hostname": "localhost",
+  "ip": "0.0.0.0",
+  "port": 8080,
+  "version": "0.0.2",
+  "mysql": {
+    "user": "root",
+    "pass": "",
+    "host": "localhost",
+    "port": 3306,
+    "database": "website"
+  },
+  "lang": {
+    "db_connection_error": "Ocorreu um erro na conexão ou na consulta",
+    "db_nosearch_available": "Nenhuma pesquisa disponível",
+    "no_permission": "Sem permissão",
+    "only_local": "O Servidor só consegue aceitar conexões locais",
+    "field_null": "Algum campo provavelmente está vazio ou não foi definido",
+    "page_does_exist": "Essa página ou método não existe"
+  }
+}
